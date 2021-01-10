@@ -1,0 +1,27 @@
+@import url(./_none/popup__error_none.css);
+
+.popup__error{
+    font-size: 12px;
+    line-height: 15px;
+    color: #FF0000;
+    position: absolute;
+    
+}
+
+.popup__error-name-edit{
+    top: 60px;   
+}
+
+.popup__error-myself-edit{
+    top: 140px;
+    right: 220px;
+}
+
+.popup__error-name{
+    top: 60px;
+}
+
+.popup__error-link{
+    top: 140px;
+    right: 220px;
+}
